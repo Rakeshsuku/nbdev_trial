@@ -14,7 +14,7 @@ See sample code below..
 Fill me in please! Don't forget code examples:
 
 ```python
-#say_hello("Meenu")
+say_hello("Meenu")
 ```
 
 
