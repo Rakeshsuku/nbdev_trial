@@ -62,3 +62,8 @@ permalink: pretty
 
 theme: jekyll-theme-architect
 baseurl: /my_nbdev_tutorial/
+
+plugins:
+    - jekyll-remote-theme
+    
+remote_theme: fastai/nbdev-jekyll-theme
